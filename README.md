@@ -19,8 +19,8 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 # Swapping-two-values
-# Developed by:B.Barathraj
-# Reference NUmber:22008848
+# Developed by: s.devesh sharma
+# Reference NUmber:22005350
 x=input()
 y=input()
 z=x
