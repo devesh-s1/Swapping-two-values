@@ -35,4 +35,3 @@ print("Swapped values are:",x,y)
 Thus the swapping of two values are successfully executed
 
 
-
